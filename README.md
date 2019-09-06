@@ -1,8 +1,7 @@
 # Introduction: Who Am I Project
 Beginning a Portfolio: building a personal webpage, UNESCO Style
 
-Teacher Repositories for Ideas
-- Exemplar Project, <a href="https://github.com/QEHS-Websites/Who-am-I-Exemplar">Click Here</a>
+Teacher Repositories for Ideas: <a href="https://github.com/QEHS-Websites/Who-am-I-Exemplar">Click Here</a>
 
 Example Time Line
 - 1 Period: building ideas to develop the beginnings of a portfolio
@@ -27,7 +26,7 @@ Example Time Line
 ## Beginning Expectations, creating a project folder
 - Create one Repository
 - Create an index.html file: RightClick / New Document / Rename to index.html / Click YES to file extension change
-- Add Introductory Boilerplate: <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Introductory%20Boilerplate">Click Here</a>
+- Add Introductory Boilerplate: <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Introductory%20Boilerplate">Click Here</a>
 - All additional files, downloads and additional content can exist *beside* index.html
   - Compiler (V8 in Chrome) will automatically find these files and render them in the browser
 - OPTION: add folders for various content (reminder: pathway must reflect this pathway)
