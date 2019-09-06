@@ -30,7 +30,7 @@ Example Time Line
 - All additional files, downloads and additional content can exist *beside* index.html
   - Compiler (V8 in Chrome) will automatically find these files and render them in the browser
 - OPTION: add folders for various content (reminder: pathway must reflect this pathway)
-  - See <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Creating%20Single%20Page%20Webpage">Click Here</a>
+  - See <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Creating%20Single%20Page%20Webpage">Click Here</a>
 
 ---
 
