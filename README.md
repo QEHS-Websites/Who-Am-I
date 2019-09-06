@@ -2,7 +2,6 @@
 Beginning a Portfolio: building a personal webpage, UNESCO Style
 
 Teacher Repositories for Ideas
-- Introductory Project, <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project">Click Here</a>
 - Exemplar Project, <a href="https://github.com/QEHS-Websites/Who-am-I-Exemplar">Click Here</a>
 
 Example Time Line
