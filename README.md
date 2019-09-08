@@ -24,13 +24,59 @@ Example Time Line
 ---
 
 ## Beginning Expectations, creating a project folder
-- Create one Repository
+- Create one Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository">
+Click Here</a>
 - Create an index.html file: RightClick / New Document / Rename to index.html / Click YES to file extension change
 - Add Introductory Boilerplate: <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Introductory%20Boilerplate">Click Here</a>
 - All additional files, downloads and additional content can exist *beside* index.html
   - Compiler (V8 in Chrome) will automatically find these files and render them in the browser
 - OPTION: add folders for various content (reminder: pathway must reflect this pathway)
   - See <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Creating%20Single%20Page%20Webpage">Click Here</a>
+
+---
+
+## "Who am I" Project Main Sections
+For additional details, see Rubric and Expectations below
+
+**Pieces of this section create routine for validating and verifying webpages**
+
+Case Study: minimum is an 11x17 with a box illustrating layout and descriptions around explaining content
+- Note: 2 pieces of paper might be easier to work with
+  - 1 piece of paper for content (word lists, actual text, and ideas for images, videos, audio, and other media)
+  - 1 piece of paper for layout
+
+Creating a GitHub Repository for this Project, learning how to save URLs (& date accessed) with actual files
+   - Create basic repository: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository">see Creating a GitHub Repository</a>
+   - Create the main page called index.html (needed for GitHub Hosting), create a new `*.txt` document and rename it
+   - Add basic boilerplate (typing html in empty .html through WYSIWYG)
+   - Reminder: eventually Web DOCs will be saved here
+     - Note: saving the URL into the REadMe.md file is less memory than saving the downloaded file
+     - CAUTION: if the owner of the image takes it away, it will no longer be on your webpage
+     - Solution: prioritize downloaded pieces and only save the ones you _really_ need
+     - Alternate Solution: create a Google Drive Folder and copy URL to point webpage to
+
+Create a To Do List in the ReadMe.md
+   - Rewrite the case study into a sequence of items to do
+   - Items must be in hierarchy, per element or feature: Order of Scroll should match reading a webpage "top to bottom" and "left to right"
+   - Must submit Case Study, Must submit GitHub Link
+   - Reminders
+     - GitHub link to Markdown Review: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
+
+Reinterpret Case Study into Scrollable Webpage HTML DOC
+   - Add additional boilerplate to reimage webpage
+   - Reminder: individual elements or features, that should be "left to right" will be that way after CSS Lessons
+
+Setting up the Chrome Browser for HTML & CSS Validation
+   a. HTML Validation
+      - In Workona, point a TAB to https://validator.w3.org/
+      - Able to validate hosted and local documents
+   b. CSS Validation
+      - In Workona, point a TAB to https://jigsaw.w3.org/css-validator/validator.html.en
+      - Able to validate hosted and local documents
+   c. Accessibility Testing as a Chrome Developer Tool
+      - In the Chrome Store, search for "aXe, Deque Systems" and add it to Chrome
+      - In Chrome/Extensions Settings, allow aXe to access URLs
+      - Able to find this in Developer Tools and the Analyze Button
 
 ---
 
