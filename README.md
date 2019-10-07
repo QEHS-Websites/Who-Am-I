@@ -89,8 +89,8 @@ Setting up the Chrome Browser for HTML & CSS Validation
   - [] Date Started
   - [] Last Modified Date Space
   - [] Author
-- 50 Word Description of your self (pick one or both of the following
-  - [] Text descriptions
+- 50 Word Description of your self (pick one or both of the following)
+  - [] Text descriptions, can have more than one
   - [] Image Descriptions, like a photo journal
 - [] 50 Word Description of your Career Plans
   - [] Career Interest: what discipline are you interested in
