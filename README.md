@@ -162,7 +162,18 @@ c. Life at Queen Elizabeth High School
 - [] CAUTION: all references to external websites require
   - [] URL
   - [] Date Accessed
-- See Blockquote Example in Introductory Boilerplate, <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Introductory%20Boilerplate#additional-footer-information-a-quote-demonstrating-how-to-reference-others-work-through-urls">Click Here</a>
+- See Blockquote Example in Intermediate Boilerplate, <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Introductory%20Boilerplate#additional-footer-information-a-quote-demonstrating-how-to-reference-others-work-through-urls">Click Here</a>
+
+- See Blockquote Example repeated below
+```html
+<blockquote cite="https://www.brainyquote.com/quotes/mitchell_kapor_163583">
+<!--  Date Accessed: 20180920 -->
+
+<p><strong>"Getting information off the Internet is like taking a drink from a firehose."</strong>
+  <em><a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">- Michell Kapor</a>
+  </em>
+</p>
+```
 
 ---
 
