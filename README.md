@@ -180,6 +180,12 @@ c. Life at Queen Elizabeth High School
 # Final Review of Content
 
 Create site map to match information brainstormed so far
+- Digital Presence: paper case study for site map
+  1. Group brainstorming (from Rubric and Expectations) into main areas
+  2. Create names for these groups
+- Create template .html file from index.html
+- Copy and paste template.html (/childFolder) and rename as child pages for named main areas
+- Create comments in index.html for pathways to individual child pages
 
 ---
 
