@@ -177,6 +177,12 @@ c. Life at Queen Elizabeth High School
 
 ---
 
+# Final Review of Content
+
+Create site map to match information brainstormed so far
+
+---
+
 # Ideas to Include
 Research through W3 Schools to find scripts for displaying elements the way it is case studied in HTML & CSS
 
