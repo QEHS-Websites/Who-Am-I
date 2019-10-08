@@ -113,7 +113,7 @@ Setting up the Chrome Browser for HTML & CSS Validation
 - [] Auditory media (could be a YouTube Video)
 
 2. To Do List, ordered in priority
-a. All items here are required: **How do I fit into a UNESCO School?**
+  a. All items here are required: **How do I fit into a UNESCO School?**
    - [] Nationality: ____________________
    - [] Ethnicity: ______________________
    - [] Country (i.e. image, map image)
