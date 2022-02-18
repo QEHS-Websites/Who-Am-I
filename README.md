@@ -1,7 +1,10 @@
 # Introduction: Who Am I Project
 Beginning a Portfolio: building a personal webpage, UNESCO Style
 
-Teacher Repositories for Ideas: <a href="https://github.com/QEHS-Websites/Who-am-I-Exemplar">Click Here</a>
+Teacher Repositories for Ideas: <a href="https://github.com/QEHS-Websites/Who-am-I-Exemplar-github.io">Click Here</a>
+- An Example Website about Mr. Mercer
+- This includes an ordered checklist of what was done to create this website
+- Publicly Facing Website, UNDERCONSTRUCTION, <a href="">Click Here when Available</a>
 
 Example Time Line
 - 1 Period: building ideas to develop the beginnings of a portfolio
